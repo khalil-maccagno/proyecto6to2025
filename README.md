@@ -153,8 +153,8 @@ Clase Nombre: Jugadores
 |peso                   | floatfield        |
 |dire                   | charfield         |
 |cd                     | charfield         |
-|talla                  | FK                |
-|descripcion            | FK                |
+|talla_id               | FK                |
+|descripcion_id         | FK                |
 |qr                     | imagefield        |
 
 Pruebas funcionales Unitarias y de Integración bajo Selenium:
